@@ -96,3 +96,7 @@ li
     color: brown;
     font-size: small;
 }
+.img-container{
+    display: flex;
+    flex-direction: row;
+}
