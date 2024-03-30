@@ -96,7 +96,8 @@ li
     color: brown;
     font-size: small;
 }
-.img-container{
+.container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+
 }
